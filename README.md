@@ -1,0 +1,1 @@
+Code of the paper "Learning to Estimate RIS-Aided mmWave Channels", https://arxiv.org/abs/2107.12631. If you want to use this code, please cite this paper as @article{he2021learning, title={Learning to Estimate RIS-Aided mmWave Channels}, author={He, Jiguang and Wymeersch, Henk and Di Renzo, Marco and Juntti, Markku}, journal={arXiv preprint arXiv:2107.12631}, year={2021} }
